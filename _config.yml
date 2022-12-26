@@ -127,7 +127,7 @@ comments:
     lang:             # 'en'
     loading:          # 'lazy'
 
-# Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
+# I have stored all static assets(github.com/cotes2020/chirpy-static-assets) inside assets/lib directory. So no need to use git submodules so I deleted .gitmodules file.
 assets:
   self_host:
     enabled: true     # boolean, keep empty means false
