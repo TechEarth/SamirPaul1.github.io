@@ -8,7 +8,7 @@ image:
   height: 132
   alt: Leetcode Solutions Cheatsheet
 categories: [LeetCode]
-tags: [blog, coding, computer-science,leetcode,leetcode-solutions,leetcode-solutions-cheetsheet,leetcode-cheetsheet,important-leetcode-solutions-markdown,markdown,important-leetcode-questions,java,python,cpp]
+tags: [blog, coding, computer-science,leetcode,leetcode-solutions,leetcode-solutions-cheetsheet,leetcode-cheetsheet,important-leetcode-solutions-markdown,markdown,important-leetcode-questions,java,python,cpp,problem-solving]
 published: true
 sitemap: true
 pin: false

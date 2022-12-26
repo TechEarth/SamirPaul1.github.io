@@ -67,7 +67,7 @@ pin: false
 
     ![decompression](/assets/img/text-file-compressor-de-compressor-web-app-decompression.png)
 
-* Additional Instructions and Warnings are provided if the above steps are not followed correctly
+- Additional Instructions and Warnings are provided if the above steps are not followed correctly
 
 ![noFile](/assets/img/text-file-compressor-de-compressor-web-app-nofile.png) 
 
@@ -75,6 +75,6 @@ pin: false
 
 
 
-* About the tecnique of Lossless Data Compression with Huffman coding.
+- About the tecnique of Lossless Data Compression with Huffman coding.
 
 ![info1](/assets/img/text-file-compressor-de-compressor-web-app-info.jpeg) 
