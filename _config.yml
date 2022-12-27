@@ -130,7 +130,7 @@ comments:
 # I have stored all static assets(github.com/cotes2020/chirpy-static-assets) inside assets/lib directory. So no need to use git submodules so I deleted .gitmodules file.
 assets:
   self_host:
-    enabled: true     # boolean, keep empty means false
+    enabled:      # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
     env:          # [development|production]
