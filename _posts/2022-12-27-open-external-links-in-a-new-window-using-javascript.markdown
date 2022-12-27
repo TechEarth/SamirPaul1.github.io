@@ -85,6 +85,6 @@ $(document).ready(function() {
 ```
 
 ### My Implementation for Jekyll Blog
-I have created a file called [external-links-new-window.html](https://raw.githubusercontent.com/SamirPaulb/assets/main/external-links-new-window.html) inside ```_includes``` directory and referred it from ```_layouts/default.html``` as <a href="#"><img src="/assets/img/include-external-links-new-window.html-code.png" alt="external-links-new-window"  width="380px" height="23px"></a>.
+I have created a file called [external-links-new-window.html](https://raw.githubusercontent.com/SamirPaulb/assets/main/external-links-new-window.html) inside ```_includes``` directory and referred it from ```_layouts/default.html``` as <a href="#"><img src="/assets/img/include-external-links-new-window.html-code.png" alt="external-links-new-window"  width="370px" height="22px"></a>.
 
 
