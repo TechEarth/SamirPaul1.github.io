@@ -6,15 +6,14 @@ Live Demo:  **https://samirpaul1.github.io**
 
 
 
-Created using [jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy).
+Modification of: [jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy).
 
 Steps:
 1. Install [Jekyll](https://jekyllrb.com/docs/installation/windows/).
 2. Make new post ```thor jekyll:new New Post Title```.
 3. Run ```bundle``` to build static codes inside ```/_site``` directory.
 4. Run ```bundle exec jekyll s``` to preview the site. 
-5. To upgrade this theme change ```gem "jekyll-theme-chirpy", "~> 5.3", ">= 5.3.1"``` with the [Chirpy Starter](https://github.com/cotes2020/chirpy-starter/blob/main/Gemfile) and run ```bundle update jekyll-theme-chirpy```.
-6. Use GitHub Actions to deploy on GitHub Pages and **Delete Gemfile.lock**.
+5. Use GitHub Actions to deploy on GitHub Pages and **Delete Gemfile.lock**.
 
 
 
