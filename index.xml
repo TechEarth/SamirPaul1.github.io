@@ -1,5 +1,6 @@
 ---
-layout: nil
+layout: none
+permalink: /index.xml
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
@@ -11,7 +12,7 @@ layout: nil
 	<link type="application/atom+xml" href="{{ site.url }}/feed/" rel="self"/>
  	<link type="text" href="{{ site.url }}" rel="alternate" {% if site.lang %}xml:lang="{{ site.lang }}"{% endif %}/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>{{ page.url | absolute_url | xml_escape }</id>
+	<id>{{ post_absolute_url }}</id>
 	<author>
 		<name>{{ site.author }}</name>
 	</author>
