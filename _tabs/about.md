@@ -5,7 +5,7 @@ order: 1
 ---
 
 <p align="center">
-   <img  alt="Welcome" src="/assets/img/welcome.svg"/> 
+  <a href="#"> <img  alt="Welcome" src="/assets/img/welcome.svg"/></a> 
 </p>
 <p style="font-family:Tinos"> I am an undergraduate student at the National Institute of Technology Durgapur. I enjoy problem-solving and coding. Always strive to bring 100% to the work I do. I am passionate about developing complex applications that solve real-world problems impacting millions of users. </p>
 
@@ -14,7 +14,7 @@ order: 1
 ---
 
 <p align="center">
-  <img alt="Education" src="/assets/img/education.svg"/>
+  <a href="#"> <img alt="Education" src="/assets/img/education.svg"/></a>
 </p>
 
  <a href="https://nitdgp.ac.in/" target = "_blank"><strong> NATIONAL INSTITUTE OF TECHNOLOGY DURGAPUR</strong></a>
@@ -32,7 +32,7 @@ WBCHSE & WBBSE ```2013 - 2020```
 ---
 
 <p align="center">
-  <img alt="Experience" src="/assets/img/experience.svg"/>
+  <a href="#"> <img alt="Experience" src="/assets/img/experience.svg"/></a>
 </p>
 
  <a href="https://www.amazon.in/" target = "_blank"><strong> AMAZON</strong></a>
@@ -57,7 +57,7 @@ Public Policy Intern ```Jun 2021 - July 2021```
 ---
 
 <p align="center">
-  <img alt="Coding Profiles" src="/assets/img/coding.svg"/>
+  <a href="#"> <img alt="Coding Profiles" src="/assets/img/coding.svg"/></a>
 </p>
 
  <a href="#"><strong> Coding Profiles</strong></a>
@@ -133,7 +133,7 @@ Public Policy Intern ```Jun 2021 - July 2021```
 ---
 
 <p align="center">
-  <img alt="Projects" src="/assets/img/projects.svg"/>
+  <a href="#"> <img alt="Projects" src="/assets/img/projects.svg"/></a>
 </p>
 
 
@@ -184,7 +184,7 @@ A simple webpage to group all profiles on social networks in one place. A clone 
 ---
 
 <p align="center">
-  <img alt="Certificates" src="/assets/img/certificates.svg"/>
+  <a href="#"> <img alt="Certificates" src="/assets/img/certificates.svg"/></a>
 </p>
 
 
