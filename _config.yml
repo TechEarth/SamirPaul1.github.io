@@ -157,6 +157,11 @@ pwa:
 # compress_images:
 #   images_path: "/assets/img/**/*.{gif,png,jpg,jpeg,svg}"
 
+# https://github.com/georgemandis/jekyll-rss-feeds
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+
 
 paginate: 5
 
