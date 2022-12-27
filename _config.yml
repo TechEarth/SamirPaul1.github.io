@@ -260,15 +260,15 @@ jekyll-archives:
     category: /categories/:name/
 
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jemoji
-  - jekyll-target-blank
-  - jekyll-loading-lazy
+# plugins:
+#   - jekyll-seo-tag
+#   - jekyll-feed
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jemoji
+#   - jekyll-target-blank
+#   - jekyll-loading-lazy
 #   - jekyll-include-cache   # jekyll compress does not work for this.
 #   - jekyll-gzip            # jekyll compress does not work for this
 #   - jekyll-compress-images # increase the build time
