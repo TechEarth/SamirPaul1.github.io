@@ -139,19 +139,19 @@ pwa:
   enabled: true   # the option for PWA feature
 
 
-gzip:
-  extensions:
-    - '.css'
-    - '.html'
-    - '.js'
-    - '.json'
-    - '.txt'
-    - '.ttf'
-    - '.atom'
-    - '.stl'
-    - '.xml'
-    - '.svg'
-    - '.eot'
+# gzip:
+#   extensions:
+#     - '.css'
+#     - '.html'
+#     - '.js'
+#     - '.json'
+#     - '.txt'
+#     - '.ttf'
+#     - '.atom'
+#     - '.stl'
+#     - '.xml'
+#     - '.svg'
+#     - '.eot'
 
 # jekyll-compress-images plugin
 # compress_images:
