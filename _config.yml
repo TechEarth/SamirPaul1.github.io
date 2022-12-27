@@ -267,9 +267,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jemoji
-  - jekyll-include-cache
   - jekyll-target-blank
   - jekyll-loading-lazy
-  - jekyll-gzip
-  # - jekyll-compress-images
-  # - amp-jekyll
+#   - jekyll-include-cache   # jekyll compress does not work for this.
+#   - jekyll-gzip            # jekyll compress does not work for this
+#   - jekyll-compress-images # increase the build time
+#   - amp-jekyll             # does not work properly
