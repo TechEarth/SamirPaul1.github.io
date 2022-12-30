@@ -16,7 +16,7 @@ permalink: /index.xml
 	<author>
 		<name>{{ site.author }}</name>
 	</author>
-	<copyright>Copyright (c) 2013-{{ site.date | %Y }}, {{ site.author }}</copyright>	
+	<rights> © {{ 'now' | date: '%Y' }} {{ site.social.name }} </rights>	
 	{% for post in site.posts limit:10 %}
 	<item>
 		<title>{{ post.title }}</title>
