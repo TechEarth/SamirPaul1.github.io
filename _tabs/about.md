@@ -139,7 +139,7 @@ Public Policy Intern ```Jun 2021 - July 2021```
 
 ### <i class="fas fa-code"></i> [DSAlgo](https://github.com/SamirPaul1/DSAlgo)
 
-![GitHub Stars](https://img.shields.io/github/stars/SamirPaul1/DSAlgo?style=social) This repository consists of many problems and their solutions in Python 3 on Data Structures and Algorithms which I have come across while Learning DSA on various competitive programming sites. The Git repo is available: [Here.⇗](https://github.com/SamirPaul1/DSAlgo)
+<img src="https://img.shields.io/github/stars/SamirPaul1/DSAlgo?style=social" alt="DSAlgo" width="90px" height="20px" loading="lazy"/> This repository consists of many problems and their solutions in Python 3 on Data Structures and Algorithms which I have come across while Learning DSA on various competitive programming sites. The Git repo is available: [Here.⇗](https://github.com/SamirPaul1/DSAlgo)
 
 
 ### <i class="fas fa-code"></i> [Portfolio Website](https://samirpaul1.github.io/portfolio) 
