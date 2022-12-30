@@ -13,9 +13,7 @@ order: 1
 
 ---
 
-<p align="center">
-  <code> <img alt="Education" src="/assets/img/education.svg" width="196px" height="33px" loading="lazy" /></code>
-</p>
+<h2 style="display: table; margin: auto; background: rgba(255, 255, 255, 0); background: linear-gradient(to right, #ff0000, #ff00ee, #fbff00, #00e5ff); -webkit-text-fill-color: transparent; -webkit-background-clip: text;"><b>Education</b></h2>
 
  <a href="https://nitdgp.ac.in/" target = "_blank"><strong> NATIONAL INSTITUTE OF TECHNOLOGY DURGAPUR</strong></a>
 
@@ -31,9 +29,7 @@ WBCHSE & WBBSE ```2013 - 2020```
 
 ---
 
-<p align="center">
-  <code> <img alt="Experience" src="/assets/img/experience.svg" width="196px" height="33px" loading="lazy" /></code>
-</p>
+<h2 style="display: table; margin: auto; background: rgba(255, 255, 255, 0); background: linear-gradient(to right, #ff0000, #ff00ee, #fbff00, #00e5ff); -webkit-text-fill-color: transparent; -webkit-background-clip: text;"><b>Experience</b></h2>
 
  <a href="https://www.amazon.in/" target = "_blank"><strong> AMAZON</strong></a>
 
@@ -56,9 +52,7 @@ Public Policy Intern ```Jun 2021 - July 2021```
 
 ---
 
-<p align="center">
-  <code> <img alt="Coding Profiles" src="/assets/img/coding.svg" width="196px" height="33px" loading="lazy" /></code>
-</p>
+<h2 style="display: table; margin: auto; background: rgba(255, 255, 255, 0); background: linear-gradient(to right, #ff0000, #ff00ee, #fbff00, #00e5ff); -webkit-text-fill-color: transparent; -webkit-background-clip: text;"><b>Coding</b></h2>
 
  <a href="#"><strong> Coding Profiles</strong></a>
 
@@ -132,14 +126,11 @@ Public Policy Intern ```Jun 2021 - July 2021```
 
 ---
 
-<p align="center">
-  <code> <img alt="Projects" src="/assets/img/projects.svg" width="196px" height="33px" loading="lazy"/></code>
-</p>
+<h2 style="display: table; margin: auto; background: rgba(255, 255, 255, 0); background: linear-gradient(to right, #ff0000, #ff00ee, #fbff00, #00e5ff); -webkit-text-fill-color: transparent; -webkit-background-clip: text;"><b>Projects</b></h2>
 
+### <i class="fas fa-code"></i> [DSAlgo](https://github.com/SamirPaul1/DSAlgo) <img src="https://img.shields.io/github/stars/SamirPaul1/DSAlgo?style=social" alt="DSAlgo" width="90px" height="20px" loading="lazy"/> 
 
-### <i class="fas fa-code"></i> [DSAlgo](https://github.com/SamirPaul1/DSAlgo)
-
-<img src="https://img.shields.io/github/stars/SamirPaul1/DSAlgo?style=social" alt="DSAlgo" width="90px" height="20px" loading="lazy"/> This repository consists of many problems and their solutions in Python 3 on Data Structures and Algorithms which I have come across while Learning DSA on various competitive programming sites. The Git repo is available: [Here.⇗](https://github.com/SamirPaul1/DSAlgo)
+This repository consists of many problems and their solutions in Python 3 on Data Structures and Algorithms which I have come across while Learning DSA on various competitive programming sites. The Git repo is available: [Here.⇗](https://github.com/SamirPaul1/DSAlgo)
 
 
 ### <i class="fas fa-code"></i> [Portfolio Website](https://samirpaul1.github.io/portfolio) 
@@ -183,9 +174,7 @@ A simple webpage to group all profiles on social networks in one place. A clone 
 
 ---
 
-<p align="center">
-  <code> <img alt="Certificates" src="/assets/img/certificates.svg" width="196px" height="33px" loading="lazy"/></code>
-</p>
+<h2 style="display: table; margin: auto; background: rgba(255, 255, 255, 0); background: linear-gradient(to right, #ff0000, #ff00ee, #fbff00, #00e5ff); -webkit-text-fill-color: transparent; -webkit-background-clip: text;"><b>Certificates</b></h2>
 
 
 ✅ Some of my verified skills and certifications:
