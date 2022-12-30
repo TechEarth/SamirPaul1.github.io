@@ -5,7 +5,7 @@ order: 1
 ---
 
 <p align="center">
-  <a href="#"> <img  alt="Welcome" src="/assets/img/welcome.svg" loading="lazy" /></a> 
+  <code> <img  alt="Welcome" src="/assets/img/welcome.svg" loading="lazy" /></code>
 </p>
 <p style="font-family:Tinos"> I am an undergraduate student at the National Institute of Technology Durgapur. I enjoy problem-solving and coding. Always strive to bring 100% to the work I do. I am passionate about developing complex applications that solve real-world problems impacting millions of users. </p>
 
@@ -14,7 +14,7 @@ order: 1
 ---
 
 <p align="center">
-  <a href="#"> <img alt="Education" src="/assets/img/education.svg" loading="lazy" /></a>
+  <code> <img alt="Education" src="/assets/img/education.svg" loading="lazy" /></code>
 </p>
 
  <a href="https://nitdgp.ac.in/" target = "_blank"><strong> NATIONAL INSTITUTE OF TECHNOLOGY DURGAPUR</strong></a>
@@ -23,7 +23,7 @@ B.Tech (Electronics and Communication Engineering) ```Nov 2020 - July 2024```
 <p style="font-family:Tinos"> • 9/10 CGPA.</p>
 <b> </b>
 
- <a href="#"><strong> SILIGURI BARADAKANTA VIDYAPITH</strong></a>
+ <a href=""><strong> SILIGURI BARADAKANTA VIDYAPITH</strong></a>
 
 WBCHSE & WBBSE ```2013 - 2020```
 <p style="font-family:Tinos"> • WBCHSE (Senior Secondary Class XII) 92.00% PCM & Computer Science.</p>
@@ -32,7 +32,7 @@ WBCHSE & WBBSE ```2013 - 2020```
 ---
 
 <p align="center">
-  <a href="#"> <img alt="Experience" src="/assets/img/experience.svg" loading="lazy" /></a>
+  <code> <img alt="Experience" src="/assets/img/experience.svg" loading="lazy" /></code>
 </p>
 
  <a href="https://www.amazon.in/" target = "_blank"><strong> AMAZON</strong></a>
@@ -57,45 +57,83 @@ Public Policy Intern ```Jun 2021 - July 2021```
 ---
 
 <p align="center">
-  <a href="#"> <img alt="Coding Profiles" src="/assets/img/coding.svg" loading="lazy" /></a>
+  <code> <img alt="Coding Profiles" src="/assets/img/coding.svg" loading="lazy" /></code>
 </p>
 
- <a href="#"><strong> Coding Profiles</strong></a>
+ <a href=""><strong> Coding Profiles</strong></a>
 
 <b>SamirPaul1</b> across coding platforms.
 <p style="font-family:Tinos" align="center"><strong> <a href="https://github.com/SamirPaul1" target = "_blank"><b>GitHub</b></a> • <a href="https://leetcode.com/samirpaul1" target = "_blank"><b>LeetCode</b></a> • <a href="https://auth.geeksforgeeks.org/user/samirpaul1/" target = "_blank"><b>GeeksforGeeks</b></a> • <a href="https://www.codechef.com/users/samirpaul1" target = "_blank"><b>CodeChef</b></a> • <a href="https://www.hackerrank.com/samirpaul1" target = "_blank"><b>HackerRank</b></a> </strong></p>
 
 ---
 
- <a href="#"><strong> Languages And Tools</strong></a>
+ <a href=""><strong> Languages And Tools</strong></a>
 <p align="center">
-   
-  <img alt="Python" width="26px" loading="lazy" src="/assets/img/python.png"> 
+
+  <code  >
+  <img alt="Python" width="26px" loading="lazy" src="/assets/img/python.png">
+  </code>
+  <code >
   <img alt="MySQL" width="26px" loading="lazy" src="/assets/img/mysql.png">
+  </code>
+  <code >
   <img alt="Java" width="26px" loading="lazy" src="/assets/img/java.png">
+  </code>
+  <code >
   <img alt="HTML5" width="26px" loading="lazy" src="/assets/img/html.png">
+  </code>
+  <code >
   <img alt="CSS3" width="26px" loading="lazy" src="/assets/img/css.png">
-  <img alt="JavaScript" width="26px" loading="lazy" src="/assets/img/javascript.png">
-  <img alt="C" width="26px" loading="lazy" src="/assets/img/c.png">
-  <img alt="C++" width="26px" loading="lazy" src="/assets/img/cpp.png">
+  </code>
+  <code >
+  <img alt="JavaScript" width="26px" loading="lazy" src="/assets/img/javascript.png" />
+  </code>
+  <code >
+  <img alt="C" width="26px" loading="lazy" src="/assets/img/c.png" />
+  </code>
+  <code >
+  <img alt="C++" width="26px" loading="lazy" src="/assets/img/cpp.png" />
+  </code>
+  <code >
   <img alt="Git" width="26px" loading="lazy" src="/assets/img/git.png">
+  </code>
+  <code >
   <img alt="Django" width="26px" loading="lazy" src="/assets/img/django.png">
+  </code>
+  <code >
   <img alt="ReactJS" width="26px" loading="lazy" src="/assets/img/react.png">
+  </code>
+  <code >
   <img alt="Powershell" width="26px" loading="lazy" src="/assets/img/powershell.png">
+  </code>
+  <code >
   <img alt="Sublime" width="26px" loading="lazy" src="/assets/img/sublime.png">
-  <img alt="VS-Code" width="26px" loading="lazy" src="/assets/img/vscode.png">
-  <img alt="Intellij" width="26px" loading="lazy" src="/assets/img/intelejidea.png">
-  <img alt="Pycharm" width="26px" loading="lazy" src="/assets/img/pycharm.png">
+  </code>
+  <code >
+  <img alt="VS-Code" width="26px" loading="lazy" src="/assets/img/vscode.png" />
+  </code>
+  <code >
+  <img alt="Intellij" width="26px" loading="lazy" src="/assets/img/intelejidea.png" />
+  </code>
+  <code >
+  <img alt="Pycharm" width="26px" loading="lazy" src="/assets/img/pycharm.png" />
+  </code>
+  <code >
   <img alt="Windows" width="26px" loading="lazy" src="/assets/img/windows.png">
+  </code>
+  <code >
   <img alt="MacOS" width="26px" loading="lazy" src="/assets/img/macos.png">
+  </code>
+  <code>
   <img alt="Linux" width="26px" loading="lazy" src="/assets/img/linux.png">
+  </code>
 
 </p>  
 
 ---
 
 <p align="center">
-  <a href="#"> <img alt="Projects" src="/assets/img/projects.svg" loading="lazy"/></a>
+  <code> <img alt="Projects" src="/assets/img/projects.svg" loading="lazy"/></code>
 </p>
 
 
@@ -146,7 +184,7 @@ A simple webpage to group all profiles on social networks in one place. A clone 
 ---
 
 <p align="center">
-  <a href="#"> <img alt="Certificates" src="/assets/img/certificates.svg" loading="lazy"/></a>
+  <code> <img alt="Certificates" src="/assets/img/certificates.svg" loading="lazy"/></code>
 </p>
 
 
