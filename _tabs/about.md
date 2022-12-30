@@ -13,7 +13,7 @@ order: 1
 
 ---
 
-<p style="display: table; margin: auto; background: rgba(255, 255, 255, 0); background: linear-gradient(to right, #ff0000, #ff00ee, #fbff00, #00e5ff); -webkit-text-fill-color: transparent; -webkit-background-clip: text; font-size: 28px"><b>Education</b></p>
+<p style="display: table; margin: auto; background: rgba(255, 255, 255, 0); background: linear-gradient(to right, #ff0000, #ff00ee, #fbff00, #00e5ff); -webkit-text-fill-color: transparent; -webkit-background-clip: text; font-size: 28px"><b>𝙀𝙙𝙪𝙘𝙖𝙩𝙞𝙤𝙣</b></p>
 
  <a href="https://nitdgp.ac.in/" target = "_blank"><strong> NATIONAL INSTITUTE OF TECHNOLOGY DURGAPUR</strong></a>
 
@@ -29,7 +29,7 @@ WBCHSE & WBBSE ```2013 - 2020```
 
 ---
 
-<p style="display: table; margin: auto; background: rgba(255, 255, 255, 0); background: linear-gradient(to right, #ff0000, #ff00ee, #fbff00, #00e5ff); -webkit-text-fill-color: transparent; -webkit-background-clip: text; font-size: 28px"><b>Experience</b></p>
+<p style="display: table; margin: auto; background: rgba(255, 255, 255, 0); background: linear-gradient(to right, #ff0000, #ff00ee, #fbff00, #00e5ff); -webkit-text-fill-color: transparent; -webkit-background-clip: text; font-size: 28px"><b>𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚</b></p>
 
  <a href="https://www.amazon.in/" target = "_blank"><strong> AMAZON</strong></a>
 
@@ -52,7 +52,7 @@ Public Policy Intern ```Jun 2021 - July 2021```
 
 ---
 
-<p style="display: table; margin: auto; background: rgba(255, 255, 255, 0); background: linear-gradient(to right, #ff0000, #ff00ee, #fbff00, #00e5ff); -webkit-text-fill-color: transparent; -webkit-background-clip: text; font-size: 28px"><b>Coding</b></p>
+<p style="display: table; margin: auto; background: rgba(255, 255, 255, 0); background: linear-gradient(to right, #ff0000, #ff00ee, #fbff00, #00e5ff); -webkit-text-fill-color: transparent; -webkit-background-clip: text; font-size: 28px"><b>𝘾𝙤𝙙𝙞𝙣𝙜</b></p>
 
  <a href="#"><strong> Coding Profiles</strong></a>
 
@@ -126,7 +126,7 @@ Public Policy Intern ```Jun 2021 - July 2021```
 
 ---
 
-<p style="display: table; margin: auto; background: rgba(255, 255, 255, 0); background: linear-gradient(to right, #ff0000, #ff00ee, #fbff00, #00e5ff); -webkit-text-fill-color: transparent; -webkit-background-clip: text; font-size: 28px"><b>Projects</b></p>
+<p style="display: table; margin: auto; background: rgba(255, 255, 255, 0); background: linear-gradient(to right, #ff0000, #ff00ee, #fbff00, #00e5ff); -webkit-text-fill-color: transparent; -webkit-background-clip: text; font-size: 28px"><b>𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨</b></p>
 
 ### <i class="fas fa-code"></i> [DSAlgo](https://github.com/SamirPaul1/DSAlgo) <img src="https://img.shields.io/github/stars/SamirPaul1/DSAlgo?style=social" alt="DSAlgo" width="90px" height="20px" loading="lazy"/> 
 
@@ -174,7 +174,7 @@ A simple webpage to group all profiles on social networks in one place. A clone 
 
 ---
 
-<p style="display: table; margin: auto; background: rgba(255, 255, 255, 0); background: linear-gradient(to right, #ff0000, #ff00ee, #fbff00, #00e5ff); -webkit-text-fill-color: transparent; -webkit-background-clip: text; font-size: 28px"><b>Certificates</b></p>
+<p style="display: table; margin: auto; background: rgba(255, 255, 255, 0); background: linear-gradient(to right, #ff0000, #ff00ee, #fbff00, #00e5ff); -webkit-text-fill-color: transparent; -webkit-background-clip: text; font-size: 28px"><b>𝘾𝙚𝙧𝙩𝙞𝙛𝙞𝙘𝙖𝙩𝙚𝙨</b></p>
 
 
 ✅ Some of my verified skills and certifications:
