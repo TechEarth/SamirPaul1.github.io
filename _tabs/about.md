@@ -17,13 +17,13 @@ order: 1
 
 <p>
 <i class="fas fa-graduation-cap"></i> <a href="https://nitdgp.ac.in/" target = "_blank"><strong>NATIONAL INSTITUTE OF TECHNOLOGY DURGAPUR</strong></a> <br>
-<b>B.Tech (Electronics and Communication Engineering)</b>   <code>Nov 2020 - July 2024</code> <br>
+<b>B.Tech (Electronics and Communication Engineering)</b> <code>  Nov 2020 - July 2024</code> <br>
 • 9/10 CGPA.
 </p>
 
 <p>
 <i class="fas fa-graduation-cap"></i> <a href="#"><strong>SILIGURI BARADAKANTA VIDYAPITH</strong></a> <br>
-<b>WBCHSE &amp; WBBSE</b>   <code>2013 - 2020</code> <br>
+<b>WBCHSE &amp; WBBSE</b> <code>  2013 - 2020</code> <br>
 • WBCHSE (Senior Secondary Class XII) 92.00% PCM & Computer Science. <br>
 • WBBSE (Secondary Class X) 96.14% General Studies.
 </p>
@@ -34,21 +34,21 @@ order: 1
 
 <p>
 <i class="fas fa-briefcase"></i> <a href="https://www.amazon.in/" target = "_blank"><strong>AMAZON</strong></a> <br>
-<b>Machine Learning Trainee</b>   <code>Jun 2022 - July 2022</code> <br>
+<b>Machine Learning Trainee</b> <code>  Jun 2022 - July 2022</code> <br>
 • Learned and implemented various concepts of Machine Learning(Supervised-Unsupervised Learning, Neural Networks). <br>
 </p>
 
 <p>
 <i class="fas fa-briefcase"></i> <a href="http://www.niti.gov.in/" target = "_blank"><strong>NITI AAYOG</strong></a> <br>
-<b>Data Management and Analytics Intern</b>   <code>July 2021 – Oct 2021</code> <br>
+<b>Data Management and Analytics Intern</b> <code>  July 2021 – Oct 2021</code> <br>
 • Worked with NDAP in the data sourcing workstream. Created and analysed datasets for PSUs and autonomous bodies. <br>
 • Used Python NumPy and Pandas in Jupyter notebook to create and visualise PyCharts. <br>
 • Worked on SDG Index and analysed the upcoming use of AR-VR in the non-gaming sector in India.
 </p>
-
+ 
 <p>
 <i class="fas fa-briefcase"></i> <a href="https://www.thinkindiaorg.in/" target = "_blank"><strong>THINK INDIA</strong></a> <br>
-<b>Public Policy Intern</b>   <code>Jun 2021 - July 2021</code> <br>
+<b>Public Policy Intern</b> <code>  Jun 2021 - July 2021</code> <br>
 • Created reports and blog posts for Think India and worked under the guidance of the Nyaypravah organization.
 </p>
 
