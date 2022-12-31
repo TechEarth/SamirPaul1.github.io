@@ -11,7 +11,7 @@ order: 1
 
 <p align="center"><a class="btn-lang" href="https://samirpaul1.github.io/resume" target = "_blank">Download CV</a></p>
 
----
+<hr>
 
 <p style="display: table; margin: auto; background: rgba(255, 255, 255, 0); background: linear-gradient(to right, #ff0000, #ff00ee, #6adb00, #00bdd2); -webkit-text-fill-color: transparent; -webkit-background-clip: text; font-size: 28px"><b>𝙀𝙙𝙪𝙘𝙖𝙩𝙞𝙤𝙣</b></p>
 
@@ -28,7 +28,7 @@ order: 1
 • WBBSE (Secondary Class X) 96.14% General Studies.
 </p>
 
----
+<hr>
 
 <p style="display: table; margin: auto; background: rgba(255, 255, 255, 0); background: linear-gradient(to right, #ff0000, #ff00ee, #6adb00, #00bdd2); -webkit-text-fill-color: transparent; -webkit-background-clip: text; font-size: 28px"><b>𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚</b></p>
 
@@ -49,20 +49,19 @@ order: 1
 <p>
 <i class="fas fa-briefcase"></i> <a href="https://www.thinkindiaorg.in/" target = "_blank"><strong>THINK INDIA</strong></a> <br>
 <b>Public Policy Intern</b> <code>Jun 2021 - July 2021</code> <br>
-<p style="font-family:Tinos"> • Created reports and blog posts for Think India and worked under the guidance of the Nyaypravah organization.
+• Created reports and blog posts for Think India and worked under the guidance of the Nyaypravah organization.
 </p>
 
----
+<hr>
 
 <p style="display: table; margin: auto; background: rgba(255, 255, 255, 0); background: linear-gradient(to right, #ff0000, #ff00ee, #6adb00, #00bdd2); -webkit-text-fill-color: transparent; -webkit-background-clip: text; font-size: 28px"><b>𝘾𝙤𝙙𝙞𝙣𝙜</b></p>
 
 <p>
 <i class="fas fa-laptop-code"></i> <a href="#"><strong>Coding Profiles</strong></a> <br>
-<b>SamirPaul1</b> across coding platforms.
+<b>SamirPaul1</b> across coding platforms. <br>
 <b style="font-family:Tinos" align="center"><strong> <a href="https://github.com/SamirPaul1" target = "_blank"><b>GitHub</b></a> • <a href="https://leetcode.com/samirpaul1" target = "_blank"><b>LeetCode</b></a> • <a href="https://auth.geeksforgeeks.org/user/samirpaul1/" target = "_blank"><b>GeeksforGeeks</b></a> • <a href="https://www.codechef.com/users/samirpaul1" target = "_blank"><b>CodeChef</b></a> • <a href="https://www.hackerrank.com/samirpaul1" target = "_blank"><b>HackerRank</b></a> </strong></b> <br>
 </p>
 
----
 
 <p><i class="fas fa-laptop-code"></i> <a href="#"><strong>Languages And Tools</strong></a></p>
 <p align="center">
@@ -127,7 +126,7 @@ order: 1
 
 </p>  
 
----
+<hr>
 
 <p style="display: table; margin: auto; background: rgba(255, 255, 255, 0); background: linear-gradient(to right, #ff0000, #ff00ee, #6adb00, #00bdd2); -webkit-text-fill-color: transparent; -webkit-background-clip: text; font-size: 28px"><b>𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨</b></p>
 
@@ -177,7 +176,7 @@ A simple webpage to group all profiles on social networks in one place. A clone 
 </p>
 
 
----
+<hr>
 
 <p style="display: table; margin: auto; background: rgba(255, 255, 255, 0); background: linear-gradient(to right, #ff0000, #ff00ee, #6adb00, #00bdd2); -webkit-text-fill-color: transparent; -webkit-background-clip: text; font-size: 28px"><b>𝘾𝙚𝙧𝙩𝙞𝙛𝙞𝙘𝙖𝙩𝙚𝙨</b></p>
 
