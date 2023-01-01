@@ -51,5 +51,5 @@ More instructions:
 #### PageSpeed Insights
 
 <p align="center">
-  <a href="#"> <img src="https://raw.githubusercontent.com/SamirPaulb/assets/main/samirpaul1-github-io-report-pagespeed-web-dev.png"/> </a>
+  <a href="https://samirpaul1.github.io/"> <img src="https://raw.githubusercontent.com/SamirPaulb/assets/main/samirpaul1-github-io-report-pagespeed-web-dev.png"/> </a>
 </p>
