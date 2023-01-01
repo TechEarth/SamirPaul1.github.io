@@ -14,10 +14,20 @@ sitemap: true
 pin: false
 ---
 
-
-
-
+<b> Repository Link: https://github.com/SamirPaul1/DSAlgo </b>
 > In this repository, I have stored solutions to various problems and concepts of **Data Structures and Algorithms** in Python in a structured manner.
+
+<p align="center">
+<a href="https://github.com/SamirPaul1/DSAlgo"> 
+<img alt="Lines" loading="lazy" src="https://img.shields.io/tokei/lines/github/SamirPaul1/DSAlgo?style=for-the-badge"> 
+<img alt="Stars" loading="lazy" src="https://img.shields.io/github/stars/SamirPaul1/DSAlgo?style=for-the-badge"> 
+<img alt="Forks" loading="lazy" src="https://img.shields.io/github/forks/SamirPaul1/DSAlgo?style=for-the-badge"> 
+<img alt="Size" loading="lazy" src="https://img.shields.io/github/repo-size/SamirPaul1/DSAlgo?style=for-the-badge"> 
+</a>
+</p>
+
+<b>View this repository in online VS Code: <a href="https://samirpaul1.github.io/DSAlgo">  https://samirpaul.in/DSAlgo.  <img alt="DSAlgo"  loading="lazy" src="https://github.com/SamirPaul1/DSAlgo/actions/workflows/pages/pages-build-deployment/badge.svg">
+</a></b>
 
 ### ***Topics Covered***:
 - [x]  [**Dynamic Programming**](https://github.com/SamirPaul1/DSAlgo/tree/main/02_Dynamic-Programming)
