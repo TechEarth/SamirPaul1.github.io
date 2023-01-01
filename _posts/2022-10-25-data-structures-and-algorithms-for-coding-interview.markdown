@@ -14,7 +14,7 @@ sitemap: true
 pin: false
 ---
 
-<b> Repository Link: https://github.com/SamirPaul1/DSAlgo </b>
+<b> Repository Link: [https://github.com/SamirPaul1/DSAlgo](https://github.com/SamirPaul1/DSAlgo) </b>
 > In this repository, I have stored solutions to various problems and concepts of **Data Structures and Algorithms** in Python in a structured manner.
 
 <p align="center">
