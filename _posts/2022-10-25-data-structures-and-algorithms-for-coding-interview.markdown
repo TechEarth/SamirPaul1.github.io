@@ -26,8 +26,6 @@ pin: false
 </a>
 </p>
 
-<b>View this repository in online VS Code: <a href="https://samirpaul1.github.io/DSAlgo">  https://samirpaul.in/DSAlgo.  <img alt="DSAlgo"  loading="lazy" src="https://github.com/SamirPaul1/DSAlgo/actions/workflows/pages/pages-build-deployment/badge.svg">
-</a></b>
 
 ### ***Topics Covered***:
 - [x]  [**Dynamic Programming**](https://github.com/SamirPaul1/DSAlgo/tree/main/02_Dynamic-Programming)
@@ -68,9 +66,11 @@ In various folders of the above topics, you can find questions and concepts rela
 
 I am continuously trying to improve this repository by adding new questions and concepts related to the respective topic. Please feel free to contribute to this repository.💻
 
-<div align="center">
-<b>View this repository with improved user experience▶️<a href="https://samirpaul1.github.io/DSAlgo">https://samirpaul.in/DSAlgo</a></b>🚀
-</div>
+<p align="center">
+<b>View this repository in online VS Code: <a href="https://samirpaul1.github.io/DSAlgo">  https://samirpaul.in/DSAlgo.  <img alt="DSAlgo"  loading="lazy" src="https://github.com/SamirPaul1/DSAlgo/actions/workflows/pages/pages-build-deployment/badge.svg">
+</a></b>
+</p>
+
 
 ![DSA Online VSCode](/assets/img/samirpaul.in-DSAlgo-demo.png "DSA Online VSCode")
 
@@ -80,6 +80,14 @@ I am continuously trying to improve this repository by adding new questions and 
 - Add new resources to [BOOKS-and-PDFs](https://github.com/SamirPaul1/DSAlgo/tree/main/BOOKS-and-PDFs) & [Questions-Sheet](https://github.com/SamirPaul1/DSAlgo/tree/main/Questions-Sheet).
 - Solve issues raised by other people or yourself.
 - Provide well-documented source code with detailed explanations.
+
+
+---
+
+
+### Stargazers over time
+
+<img alt="Stargazers over time" loading="lazy"  src="https://starchart.cc/SamirPaul1/DSAlgo.svg">
 
 
 ---
