@@ -67,8 +67,8 @@ order: 1
 
 <p><i class="fas fa-laptop-code"></i> <a href="#"><strong>Languages And Tools</strong></a></p>
 <p align="center">
-  <code  >
-  <img alt="Python Java C++ C PHP JavaScript HTML CSS MySQL MongoDB Django ReactJS Git Docker Linux" loading="lazy" src="/assets/python-java-cpp-c-php-js-html-css-mysql-mongodb-django-react-git-docker-linux.svg" />
+  <code>
+  <img alt="Python Java C++ C PHP JavaScript HTML CSS MySQL MongoDB Django ReactJS Git Docker Linux" loading="lazy" src="/assets/img/python-java-cpp-c-php-js-html-css-mysql-mongodb-django-react-git-docker-linux.svg" />
   </code>
 </p>  
 
