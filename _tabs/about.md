@@ -67,65 +67,9 @@ order: 1
 
 <p><i class="fas fa-laptop-code"></i> <a href="#"><strong>Languages And Tools</strong></a></p>
 <p align="center">
-
   <code  >
-  <img alt="Python" width="26px" height="26px" loading="lazy" src="/assets/img/python.png">
+  <img alt="Python Java C++ C PHP JavaScript HTML CSS MySQL MongoDB Django ReactJS Git Docker Linux" loading="lazy" src="/assets/python-java-cpp-c-php-js-html-css-mysql-mongodb-django-react-git-docker-linux.svg" />
   </code>
-  <code >
-  <img alt="MySQL" width="26px" height="26px" loading="lazy" src="/assets/img/mysql.png">
-  </code>
-  <code >
-  <img alt="Java" width="26px" height="26px" loading="lazy" src="/assets/img/java.png">
-  </code>
-  <code >
-  <img alt="HTML5" width="26px" height="26px" loading="lazy" src="/assets/img/html.png">
-  </code>
-  <code >
-  <img alt="CSS3" width="26px" height="26px" loading="lazy" src="/assets/img/css.png">
-  </code>
-  <code >
-  <img alt="JavaScript" width="26px" height="26px" loading="lazy" src="/assets/img/javascript.png" />
-  </code>
-  <code >
-  <img alt="C" width="26px" height="26px" loading="lazy" src="/assets/img/c.png" />
-  </code>
-  <code >
-  <img alt="C++" width="26px" height="26px" loading="lazy" src="/assets/img/cpp.png" />
-  </code>
-  <code >
-  <img alt="Git" width="26px" height="26px" loading="lazy" src="/assets/img/git.png">
-  </code>
-  <code >
-  <img alt="Django" width="26px" height="26px" loading="lazy" src="/assets/img/django.png">
-  </code>
-  <code >
-  <img alt="ReactJS" width="26px" height="26px" loading="lazy" src="/assets/img/react.png">
-  </code>
-  <code >
-  <img alt="Powershell" width="26px" height="26px" loading="lazy" src="/assets/img/powershell.png">
-  </code>
-  <code >
-  <img alt="Sublime" width="26px" height="26px" loading="lazy" src="/assets/img/sublime.png">
-  </code>
-  <code >
-  <img alt="VS-Code" width="26px" height="26px" loading="lazy" src="/assets/img/vscode.png" />
-  </code>
-  <code >
-  <img alt="Intellij" width="26px" height="26px" loading="lazy" src="/assets/img/intelejidea.png" />
-  </code>
-  <code >
-  <img alt="Pycharm" width="26px" height="26px" loading="lazy" src="/assets/img/pycharm.png" />
-  </code>
-  <code >
-  <img alt="Windows" width="26px" height="26px" loading="lazy" src="/assets/img/windows.png">
-  </code>
-  <code >
-  <img alt="MacOS" width="26px" height="26px" loading="lazy" src="/assets/img/macos.png">
-  </code>
-  <code>
-  <img alt="Linux" width="26px" height="26px" loading="lazy" src="/assets/img/linux.png">
-  </code>
-
 </p>  
 
 <hr>
