@@ -64,7 +64,7 @@ In various folders of the above topics, you can find questions and concepts rela
 
 ![DSAlgo repo](/assets/img/repository-image-dsalgo-samirpaul1-leetcode-post.jpeg "DSAlgo repository")
 
-I am continuously trying to improve this repository by adding new questions and concepts related to the respective topic. Please feel free to contribute to this repository.💻
+---
 
 <p align="center">
 <b>View this repository in online VS Code: <a href="https://samirpaul1.github.io/DSAlgo">  https://samirpaul.in/DSAlgo.  <img alt="DSAlgo"  loading="lazy" src="https://github.com/SamirPaul1/DSAlgo/actions/workflows/pages/pages-build-deployment/badge.svg">
@@ -73,6 +73,10 @@ I am continuously trying to improve this repository by adding new questions and 
 
 
 ![DSA Online VSCode](/assets/img/samirpaul.in-DSAlgo-demo.png "DSA Online VSCode")
+
+---
+
+I am continuously trying to improve this repository by adding new questions and concepts related to the respective topic. Please feel free to contribute to this repository.💻
 
 **Things you can contribute to:**
 - Update the existing solution with a better one (better complexity).
