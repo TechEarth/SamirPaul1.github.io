@@ -87,7 +87,7 @@ I am continuously trying to improve this repository by adding new questions and 
 
 ### Stargazers over time
 
-<img alt="Stargazers over time" loading="lazy"  src="https://starchart.cc/SamirPaul1/DSAlgo.svg">
+<a href="https://github.com/SamirPaul1/DSAlgo"><img alt="Star History" loading="lazy"  src="https://api.star-history.com/svg?repos=SamirPaul1/DSAlgo&type=Date"></a>
 
 
 ---
