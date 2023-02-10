@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Why is System Design so important"
-description: "Why is System Design so important"
+title: "Why is System Design So Important?"
+description: "Why is System Design so important?"
 image:
   path: /assets/img/blog-featured-image.webp
   width: 661
