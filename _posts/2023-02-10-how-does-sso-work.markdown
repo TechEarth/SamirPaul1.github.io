@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How does SSO work"
-description: "How does SSO work"
+title: "How does SSO work?"
+description: "How does SSO work?"
 image:
   path: /assets/img/blog-featured-image.webp
   width: 661

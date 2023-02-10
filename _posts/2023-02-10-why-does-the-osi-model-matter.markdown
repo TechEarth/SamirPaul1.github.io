@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Why does the OSI model matter"
-description: "Why does the OSI model matter"
+title: "Why Does The OSI Model Matter?"
+description: "Why does the OSI model matter?"
 image:
   path: /assets/img/blog-featured-image.webp
   width: 661

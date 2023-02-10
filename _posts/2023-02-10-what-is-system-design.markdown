@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "What is System Design"
-description: "What is System Design"
+title: "What is System Design?"
+description: "What is System Design?"
 image:
   path: /assets/img/blog-featured-image.webp
   width: 661
