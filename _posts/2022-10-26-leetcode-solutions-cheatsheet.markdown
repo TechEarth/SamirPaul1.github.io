@@ -4558,7 +4558,7 @@ public ListNode reverseList(ListNode head) {
 }											// new head.
 ```
 
-![reverse Linked list](/Users/devkapupara/Desktop/Notes/dependencies/reverse Linked list.jpg)
+![reverse Linked list](https://raw.githubusercontent.com/SamirPaulb/assets/main/reverse-a-linked-list-image.webp)
 
 
 
