@@ -29,7 +29,7 @@ PyShooter is a two-dimensional shooter game in which the player runs horizontall
 <iframe width="100%" height="420" src="https://www.youtube.com/embed/rg-49OTHZVY" loading="lazy" title="PyShooter - Samir Paul - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="true"></iframe>
 
 
-<iframe title="Video Demo" src="https://user-images.githubusercontent.com/77569653/214920668-ef657089-b71f-43c8-8011-a202a09f5531.mp4" loading="lazy" width="100%" height = "700" autoplay="autoplay" loop="loop" frameborder="0" allowfullscreen></iframe>
+<iframe title="Video Demo" src="https://user-images.githubusercontent.com/77569653/214920668-ef657089-b71f-43c8-8011-a202a09f5531.mp4" loading="lazy" width="100%" height = "500" autoplay="autoplay" loop="loop" frameborder="0" allowfullscreen></iframe>
 
 
 <!---
