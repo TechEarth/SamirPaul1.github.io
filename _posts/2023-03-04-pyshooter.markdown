@@ -7,8 +7,8 @@ image:
   width: 661
   height: 132
   alt: "PyShooter"
-categories: [Blog]
-tags: [blog, coding, computer-science, python, project, pygame, python-game]
+categories: [Projects]
+tags: [blog, coding, computer-science, python, project, pygame, python-game, projects]
 published: true
 sitemap: true
 pin: false
