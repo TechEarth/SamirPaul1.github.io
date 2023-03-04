@@ -21,23 +21,16 @@ pin: false
 
 PyShooter is a two-dimensional shooter game in which the player runs horizontally and fires at enemies.
 
-## Repository: [https://github.com/SamirPaul1/PyShooter](https://github.com/SamirPaul1/PyShooter)
+##### Repository: [https://github.com/SamirPaul1/PyShooter](https://github.com/SamirPaul1/PyShooter)
 
 ## Demo: 
 
-<div class="embed-container">
-  <iframe
-      src="https://www.youtube.com/embed/rg-49OTHZVY"
-      loading="lazy"
-      width="700"
-      height="480"
-      frameborder="0"
-      allowfullscreen="true">
-  </iframe>
-</div>
+
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/rg-49OTHZVY" loading="lazy" title="PyShooter - Samir Paul - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="true"></iframe>
 
 
-https://user-images.githubusercontent.com/77569653/214920668-ef657089-b71f-43c8-8011-a202a09f5531.mp4
+<iframe title="Video Demo" src="https://user-images.githubusercontent.com/77569653/214920668-ef657089-b71f-43c8-8011-a202a09f5531.mp4" loading="lazy" width="100%" height = "700" autoplay="autoplay" loop="loop" frameborder="0" allowfullscreen></iframe>
+
 
 <!---
 <a href="https://www.youtube.com/watch?v=rg-49OTHZVY">
@@ -64,8 +57,8 @@ python main.py
 
 
 Credits for assets used: 
-1. https://erayzesen.itch.io/pixel-platformer 
-2. https://secrethideout.itch.io/team-wars-platformer-battle 
-3. https://soundimage.org/fantasywonder 
-4. https://gushh.net/blog/free-game-sprites-explosion-3  
-5. https://mtk.itch.io/grenades-16x16 
+1. [https://erayzesen.itch.io/pixel-platformer](https://erayzesen.itch.io/pixel-platformer) 
+2. [https://secrethideout.itch.io/team-wars-platformer-battle](https://secrethideout.itch.io/team-wars-platformer-battle) 
+3. [https://soundimage.org/fantasywonder](https://soundimage.org/fantasywonder) 
+4. [https://gushh.net/blog/free-game-sprites-explosion-3](https://gushh.net/blog/free-game-sprites-explosion-3)  
+5. [https://mtk.itch.io/grenades-16x16](https://mtk.itch.io/grenades-16x16) 
