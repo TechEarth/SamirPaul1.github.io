@@ -21,3 +21,5 @@ package-lock.json
 
 # bundle
 Gemfile.lock
+
+.jekyll-cache

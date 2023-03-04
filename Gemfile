@@ -22,7 +22,8 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 gem "webrick", "~> 1.7"
 
 # Jekyll as a dependency
-gem "jekyll"
+gem "jekyll", github: "jekyll/jekyll"
+gem "liquid-c"
 
 # Extended features
 gem 'jekyll-seo-tag'  

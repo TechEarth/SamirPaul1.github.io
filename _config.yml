@@ -252,6 +252,7 @@ exclude:
   - gulpfile.js
   - node_modules
   - package*.json
+  - .jekyll-cache
   
 
 
