@@ -20,6 +20,7 @@ Embed [<b>samirpaul.in/music/embed</b>](https://samirpaul1.github.io/music/embed
 ### Demo:
 
 <iframe src="https://samirpaul1.github.io/music/embed/index.html"
+  title="Embed MusicApp"
 	frameborder="0"
 	loading="lazy"
 	marginheight="0"
@@ -34,6 +35,7 @@ Embed [<b>samirpaul.in/music/embed</b>](https://samirpaul1.github.io/music/embed
 
 ```html
 <iframe src="https://samirpaul1.github.io/music/embed"
+  title="Embed MusicApp"
 	frameborder="0"
 	loading="lazy"
 	marginheight="0"
