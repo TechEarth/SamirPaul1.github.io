@@ -30,7 +30,7 @@ Embed [this](https://samirpaul1.github.io/music/embed) music player(Lofi Study M
 </iframe>
 
 
-## Code:
+### Code:
 
 ```html
 <iframe src="https://samirpaul1.github.io/music/embed"
